@@ -58,9 +58,9 @@ You should update it to:
 
 ```
 use Firebase\JWT\JWT;
-```
 
 $token = JWT::encode($payload, $secret, 'HS256');
+```
 This is because the default signing algorithm for JWT tokens changed from HS256 to RS256 in version 4.0.0 of the php-jwt package.
 
 That's it! Your php-jwt package is now updated to the latest version.

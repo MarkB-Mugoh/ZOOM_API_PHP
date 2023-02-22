@@ -1,0 +1,10 @@
+{
+    "name": "zoom/vendor",
+    "description": "zoom integration",
+    "type": "library",
+    "license": "3",
+    "minimum-stability": "dev",
+    "require": {
+        "firebase/php-jwt": "dev-main"
+    }
+}

@@ -67,6 +67,8 @@ That's it! Your php-jwt package is now updated to the latest version.
 
 Remember to cutomise the code to fit your project requirements.
 
+The JWT app type will be depreceated june 1, 2023 by zoom. You should consider to create server to sever Oauth or an Oauth app to replace the functionality of a JWT app in your zoom account
+
 
 
 
